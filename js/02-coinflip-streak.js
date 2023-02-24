@@ -4,6 +4,6 @@ do {
    if (coinFlip === 1) {
         console.log("Heads");
    } else {
-        console.log("Tails")
+        console.log("Tails");
    }
 } while (coinFlip === 1);
